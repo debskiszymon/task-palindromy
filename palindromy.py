@@ -11,4 +11,5 @@ def palindromy(word):
         return True
     else:
         return False
-palindromy("kajakz")
+print(palindromy("kajak"))
+print(palindromy("test"))
